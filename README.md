@@ -13,6 +13,7 @@ The website is accessible in the repository, as well as the code itself. Additio
 
 ## Credits
 https://www.w3schools.com/html/html5_semantic_elements.asp
+
 https://www.w3schools.com/tags/att_img_alt.asp
 
 
