@@ -4,7 +4,7 @@
 ## Description
 
 
-In this project, I was required to modify a HTML starter code and make it more accessible. This was done so the website can be used by different search engines as well as those with modified browsers including people using assistive technologies such as video captions, screen readers, and braille keyboards. I learned how to incorprate semantic HTML elements as well as alt attributes. Image of website application can be found below. Website application available at https://pamelaiman.github.io/horiseonrepo/
+In this project, I was required to modify a HTML starter code and make it more accessible. This was done so the website can be used by different search engines as well as those with modified browsers including people using assistive technologies such as video captions, screen readers, and braille keyboards. I learned how to incorprate semantic HTML elements as well as alt attributes. Image of website application can be found in folder ../assets/images/horiseonwebsite. Website application available at https://pamelaiman.github.io/horiseonrepo/
 
 
 ## Installation
